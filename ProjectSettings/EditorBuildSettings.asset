@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Onboarding.unity
+    guid: a1bf932dcb7df564cbb2572ee07ecc9f
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 15f53f9f9b6c25f498117c5bf1b6cb8b
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: f5a3ddb43ba09d3448256d2f2257f565
+  - enabled: 1
+    path: Assets/Scenes/Configure.unity
+    guid: 648fdf84fedfaea478c119077d43c92c
+  - enabled: 1
+    path: Assets/Scenes/Question1.unity
+    guid: 9212450fe74bdb143ae6f9715107294e
+  - enabled: 1
+    path: Assets/Scenes/Question4.unity
+    guid: 86b4da5222a89bc4eaffcfeb9e8fdaab
+  - enabled: 1
+    path: Assets/Scenes/Question5.unity
+    guid: 79adaa7ce0a8f674d816995123e5c18e
+  - enabled: 1
+    path: Assets/Scenes/Content.unity
+    guid: 53d66dfb26f404c4a96ff190003f22df
+  - enabled: 1
+    path: Assets/Scenes/Question2.unity
+    guid: 039ca283a7beda048aa9eb73c6348f2f
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: b67ce03e6704e8a45ba225edaf3dd668
+  - enabled: 1
+    path: Assets/Scenes/Question3.unity
+    guid: fc026c69d41f08047a69069eb0746986
+  - enabled: 0
+    path: Assets/Scenes/Loading.unity
+    guid: f83c76a84acc70c4589ac608fb79e6c2
+  - enabled: 1
+    path: Assets/Scenes/Configured.unity
+    guid: bf238eb60574ed848825333cfeb41289
+  - enabled: 1
+    path: Assets/Scenes/Meet.unity
+    guid: de3a5c487a7101a49bd695b48f25905c
+  - enabled: 1
+    path: Assets/Scenes/FAQ.unity
+    guid: 5cab1ba51954ac24baddbe5a1731c8d7
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a23c1ebf7606f2646bc730277d3b932f
+  - enabled: 1
+    path: Assets/Scenes/Config.unity
+    guid: 5a4e4e464501b6844afaf62ab6d1667e
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: 4e7112132df77b948964c0ba79cc97e0
+  - enabled: 1
+    path: Assets/Scenes/Saved.unity
+    guid: 0f47301a21146434699073c8328f7e4d
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d3f1f6ff57d49ea4f9f56c973c6bbf05,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
